@@ -1,0 +1,3 @@
+﻿using CalculationOfPi;
+
+MonteCarloSimulation.Simulation();
